@@ -1,0 +1,675 @@
+
+,Sl_No,Date,Age Bracket,Gender,Patient_Status,City,District,State,Statecode,Notes
+,,,,,,,,,,,
+,1,3/29/2020,85,M,Deceased,Mumbai,Mumbai,Maharashtra,MH,"Suffering from Diabetes, had a pacemaker, no travel history, came in contact with someone who returned from UK"
+,2,3/29/2020,80,M,Deceased,Mumbai,Mumbai,Maharashtra,MH,"patient passed away at the Fortis Hospital, Mulund on Saturday. He had co-morbid conditions including acute respiratory distress, hypertension and ischemic heart disease. He was admitted to the private hospital on March 27 and died a day later. The deceased tested positive for Covid-19 on March 29, a day after his demise."
+,3,3/29/2020,86,F,Deceased,Ghatkopar,Mumbai Suburban,Maharashtra,MH,
+,4,3/29/2020,,,Deceased,,Mumbai,Maharashtra,MH,
+,5,3/29/2020,,,Deceased,,Mumbai,Maharashtra,MH,
+,6,3/29/2020,,,Deceased,,Thane,Maharashtra,MH,
+,7,3/29/2020,45,M,Deceased,,Buldana,Maharashtra,MH,The deceased was a diabetic and had no travel history even within the country
+,8,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,9,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,10,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,11,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,12,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,13,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,14,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,15,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,16,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,17,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,18,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,19,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,20,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,21,3/29/2020,,,Recovered,,Mumbai,Maharashtra,MH,
+,22,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,23,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,24,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,25,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,26,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,27,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,28,3/29/2020,,,Recovered,Pune,Pune,Maharashtra,MH,
+,29,3/29/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,
+,30,3/29/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,
+,31,3/29/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,
+,32,3/29/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,
+,33,3/29/2020,,,Deceased,,,Kerala,KL,
+,34,3/29/2020,,,Recovered,,,Kerala,KL,
+,35,3/29/2020,,,Recovered,,,Kerala,KL,
+,36,3/29/2020,,,Recovered,,,Kerala,KL,
+,37,3/29/2020,,,Recovered,,,Kerala,KL,
+,38,3/29/2020,,,Recovered,,,Kerala,KL,
+,39,3/29/2020,,,Recovered,,,Kerala,KL,
+,40,3/29/2020,,,Recovered,,,Kerala,KL,
+,41,3/29/2020,,,Recovered,,,Kerala,KL,
+,42,3/29/2020,,,Recovered,,,Kerala,KL,
+,43,3/29/2020,,,Recovered,,,Kerala,KL,
+,44,3/29/2020,,,Recovered,,,Kerala,KL,
+,45,3/29/2020,,,Recovered,,,Kerala,KL,
+,46,3/29/2020,,,Recovered,,,Kerala,KL,
+,47,3/29/2020,,,Recovered,,,Kerala,KL,
+,48,3/29/2020,,,Recovered,,,Kerala,KL,
+,49,3/29/2020,,,Recovered,,,Kerala,KL,
+,50,3/29/2020,,,Recovered,,,Kerala,KL,
+,51,3/29/2020,,,Recovered,,,Kerala,KL,
+,52,3/29/2020,,,Recovered,,,Kerala,KL,
+,53,3/29/2020,,,Recovered,,,Kerala,KL,
+,54,3/20/2020,,,Recovered,,,Karnataka,KA,KA-P5
+,55,3/24/2020,,,Recovered,,,Karnataka,KA,KA-P2
+,56,3/24/2020,,,Recovered,,,Karnataka,KA,KA-P4
+,57,3/27/2020,,,Recovered,,,Karnataka,KA,KA-P1
+,58,3/27/2020,,,Recovered,,,Karnataka,KA,KA-P3
+,59,3/13/2020,,,Deceased,,,Karnataka,KA,KA-P6
+,60,3/26/2020,,,Deceased,,,Karnataka,KA,KA-P53
+,61,3/27/2020,,,Deceased,,,Karnataka,KA,KA-P60
+,62,3/29/2020,,,Recovered,,,Delhi,DL,
+,63,3/29/2020,,,Recovered,,,Delhi,DL,
+,64,3/29/2020,,,Recovered,,,Delhi,DL,
+,65,3/29/2020,,,Recovered,,,Delhi,DL,
+,66,3/29/2020,,,Recovered,,,Delhi,DL,
+,67,3/29/2020,,,Recovered,,,Delhi,DL,
+,68,3/29/2020,,,Deceased,,,Delhi,DL,
+,69,3/29/2020,,,Deceased,,,Delhi,DL,
+,70,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,71,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,72,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,73,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,74,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,75,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,76,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,77,3/29/2020,,,Recovered,,Agra,Uttar Pradesh,UP,
+,78,3/29/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,
+,79,3/29/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,
+,80,3/29/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,
+,81,3/29/2020,,,Recovered,,,Telangana,TG,
+,82,3/29/2020,,,Deceased,,,Telangana,TG,
+,83,3/29/2020,67,M,Deceased,Surat,Surat,Gujarat,GJ,"No foreign travel, had visited Delhi and Jaipur earlier. Admitted to Hospital on 17th march with kidney and asthma complications and died on 22nd March"
+,84,3/29/2020,85,F,Deceased,Ahmadabad,Ahmadabad,Gujarat,GJ,Returned from Saudi Arabia recently. Died on March 25th.
+,85,3/29/2020,70,M,Deceased,Bhavnagar,Bhavnagar,Gujarat,GJ,"No foreign travel, flew to Delhi and back from Ahmedabad. Had multiple co-morbid conditions, including cardiomegaly, diabetes, hypertension and malignancy."
+,86,3/29/2020,46,F,Deceased,Ahmadabad,Ahmadabad,Gujarat,GJ,"No travel history, it may be due to local transmission but we are still trying to trace contact. She was hospitalised on March 26 as she was suffering from breathlessness although she had pulmonary fibrosis for a year, with her lungs only partially functioning died two days later."
+,87,3/29/2020,47,M,Deceased,Ahmadabad,Ahmadabad,Gujarat,GJ,"Had diabetes, was admitted to SVP hospital"
+,88,3/29/2020,34,F,Recovered,,Ahmadabad,Gujarat,GJ,
+,89,3/29/2020,,,Recovered,,,Rajasthan,RJ,
+,90,3/29/2020,,,Recovered,,,Rajasthan,RJ,
+,91,3/29/2020,,,Recovered,,,Rajasthan,RJ,
+,92,3/29/2020,,,Recovered,,,Tamil Nadu,TN,
+,93,3/29/2020,,,Recovered,,,Tamil Nadu,TN,
+,94,3/29/2020,,,Recovered,,,Tamil Nadu,TN,
+,95,3/29/2020,,,Recovered,,,Tamil Nadu,TN,
+,96,3/29/2020,,,Deceased,,,Tamil Nadu,TN,
+,97,3/29/2020,65,M,Deceased,Indore,Indore,Madhya Pradesh,MP,
+,98,3/29/2020,65,F,Deceased,Ujjain,Ujjain,Madhya Pradesh,MP,
+,99,3/29/2020,,,Recovered,,,Jammu and Kashmir,JK,
+,100,3/29/2020,,,Deceased,,,Jammu and Kashmir,JK,
+,101,3/29/2020,,,Recovered,,,Punjab,PB,
+,102,3/29/2020,,,Deceased,,,Punjab,PB,
+,103,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,104,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,105,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,106,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,107,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,108,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,109,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,110,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,111,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,112,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,113,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,114,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,115,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,116,3/29/2020,,,Recovered,,Italians,Haryana,HR,
+,117,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,Patient ID unknown
+,118,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,Patient ID unknown
+,119,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,Patient ID unknown
+,120,3/29/2020,,,Recovered,,,Andhra Pradesh,AP,
+,121,3/29/2020,57,M,Deceased,Dum Dum,North 24 Parganas,West Bengal,WB,Was in hospital from Feb 16 and no foreign travel. Visited Bilaspur in Feb. Was on ventilator support.
+,122,3/29/2020,,,Deceased,,Munger,Bihar,BR,
+,123,3/29/2020,,,Recovered,,,Ladakh,LA,
+,124,3/29/2020,,,Recovered,,,Ladakh,LA,
+,125,3/29/2020,,,Recovered,,,Ladakh,LA,
+,126,3/29/2020,,,Recovered,,,Uttarakhand,UT,
+,127,3/29/2020,,,Recovered,,,Uttarakhand,UT,
+,128,3/29/2020,,,Recovered,,,Himachal Pradesh,HP,
+,129,3/29/2020,,,Deceased,,,Himachal Pradesh,HP,
+,130,3/29/2020,40,F,Deceased,,Mumbai,Maharashtra,MH,"complained of severe respiratory distress, admitted and tested"
+,131,3/30/2020,44,F,Deceased,Kalimpong,Kalimpong,West Bengal,WB,Had gone to Chennai and returned to Bagdogra by flight on March 19th was having cough and cold. Admitted to NBMCH on 26th March.
+,132,3/30/2020,45,F,Deceased,Bhavnagar,Bhavnagar,Gujarat,GJ,Had mental ailment and suffered a stroke two weeks back.
+,133,3/30/2020,52,M,Deceased,,Pune,Maharashtra,MH,"Suffering from Diabetes, Hypertension"
+,134,3/30/2020,62,M,Deceased,,Hoshiarpur,Punjab,PB,Contact of 70yr old first Punjab Covid19 deceased
+,135,3/30/2020,62,F,Recovered,,,Gujarat,GJ,Admitted on 20/3/2020
+,136,3/30/2020,65,M,Recovered,,,Gujarat,GJ,Admitted on 20/3/2020
+,137,3/30/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,8 Agra recoveries
+,138,3/30/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,6 NOIDA recoveries
+,139,3/30/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,2 Ghaziabad recoveries
+,140,3/30/2020,,,Recovered,,Lucknow,Uttar Pradesh,UP,Lucknow
+,141,3/30/2020,,,Recovered,,Ghaziabad,Uttar Pradesh,UP,Total 17 as of 30 Mar
+,142,3/30/2020,,,Recovered,,Ghaziabad,Uttar Pradesh,UP,
+,143,3/30/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,14 Mumbai
+,144,3/30/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,7 Pune
+,145,3/30/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,9 Pimpri-Chinchwad
+,146,3/30/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,3 Yavatmal
+,147,3/30/2020,,,Recovered,Pimpri-Chinchwad,Pune,Maharashtra,MH,4 Nagpur
+,148,3/30/2020,,,Recovered,,Yavatmal,Maharashtra,MH,
+,149,3/30/2020,,,Recovered,,Yavatmal,Maharashtra,MH,
+,150,3/30/2020,,,Recovered,,Yavatmal,Maharashtra,MH,
+,151,3/30/2020,,,Recovered,,Nagpur,Maharashtra,MH,
+,152,3/30/2020,,,Recovered,,Nagpur,Maharashtra,MH,
+,153,3/30/2020,,,Recovered,,Nagpur,Maharashtra,MH,
+,154,3/30/2020,,,Recovered,,Nagpur,Maharashtra,MH,
+,155,3/30/2020,,,Recovered,,Ahmadnagar,Maharashtra,MH,1 Ahmadnagar
+,156,3/30/2020,,,Recovered,,Aurangabad,Maharashtra,MH,1 Aurangabad
+,157,3/30/2020,,,Deceased,,,Telangana,TG,
+,158,3/30/2020,,,Recovered,,,Telangana,TG,
+,159,3/30/2020,,,Recovered,,,Telangana,TG,
+,160,3/30/2020,,,Recovered,,,Telangana,TG,
+,161,3/30/2020,,,Recovered,,,Telangana,TG,
+,162,3/30/2020,,,Recovered,,,Telangana,TG,
+,163,3/30/2020,,,Recovered,,,Telangana,TG,
+,164,3/30/2020,,,Recovered,,,Telangana,TG,
+,165,3/30/2020,,,Recovered,,,Telangana,TG,
+,166,3/30/2020,,,Recovered,,,Telangana,TG,
+,167,3/30/2020,,,Recovered,,,Telangana,TG,
+,168,3/30/2020,,,Recovered,,,Telangana,TG,
+,169,3/30/2020,,,Recovered,,,Telangana,TG,
+,170,3/30/2020,,,Recovered,,,Telangana,TG,
+,171,3/30/2020,78,M,Deceased,,Mumbai,Maharashtra,MH,1 Mumbai; 1 Pune
+,172,3/30/2020,,,Deceased,,,Telangana,TG,Need to verify if these patients are part of raw data
+,173,3/30/2020,,,Deceased,,,Telangana,TG,Need to verify if these patients are part of raw data
+,174,3/30/2020,,,Deceased,,,Telangana,TG,Need to verify if these patients are part of raw data
+,175,3/30/2020,56,M,Deceased,Hyderabad,Hyderabad,Telangana,TG,Had comorbid conditions and was admitted in critical condition
+,176,3/30/2020,42,F,Deceased,Ludhiana,Ludhiana,Punjab,PB,She was brought to Patiala’s Government Rajindra Hospital with acute respiratory syndrome at 1.30 am on Monday morning.
+,177,3/30/2020,41,M,Deceased,Indore,Indore,Madhya Pradesh,MP,"Diabetic, admitted to pvt hospital on 23rd, tested positive for coronavirus on 26th and passed away on 30.03.20"
+,178,3/30/2020,38,M,Deceased,Ujjain,Ujjain,Madhya Pradesh,MP,"Had high BP, complained of chest pain and looked like a cardiac patient"
+,179,3/30/2020,,,Recovered,,,Karnataka,KA,KA-P12
+,180,3/31/2020,68,M,Deceased,,Thiruvananthapuram,Kerala,KL,P1449
+,181,3/31/2020,47,F,Deceased,Salkia,Howrah,West Bengal,WB,"Recently visited Dooars in North Bengal, no other travel known."
+,182,3/31/2020,,M,Deceased,,,Jammu and Kashmir,JK,Details awaited
+,183,3/31/2020,,,Recovered,,,Gujarat,GJ,Details awaited
+,184,3/31/2020,,,Recovered,,,Gujarat,GJ,Details awaited
+,185,3/31/2020,65,M,Deceased,Chandigarh,S.A.S. Nagar,Punjab,PB,from Nayagoan town of Mohali district. Admitted to PGIMER on 26th with lung disease
+,186,3/31/2020,,,Recovered,,,Tamil Nadu,TN,Details awaited
+,187,3/31/2020,,,Recovered,,,Tamil Nadu,TN,Details awaited
+,188,3/31/2020,,,Recovered,,,Karnataka,KA,KA-P7
+,189,3/31/2020,,,Recovered,,,Karnataka,KA,KA-P8
+,190,3/31/2020,,,Recovered,,Pathanamthitta,Kerala,KL,P56
+,191,3/31/2020,,,Recovered,,Pathanamthitta,Kerala,KL,P57
+,192,3/31/2020,,,Recovered,,Kannur,Kerala,KL,P312
+,193,3/31/2020,,,Recovered,,Kannur,Kerala,KL,P313
+,194,3/31/2020,,,Recovered,,Durg,Chhattisgarh,CT,Details awaited
+,195,3/31/2020,,,Recovered,,Rajnandgaon,Chhattisgarh,CT,Details awaited
+,196,3/31/2020,50,M,Deceased,Palghar,Palghar,Maharashtra,MH,No travel history
+,197,3/31/2020,62,M,Deceased#,Ultadanga,Kolkata,West Bengal,WB,Died at Nil Ratan Sircar hospital. Was admitted in the morning and died by evening. Covid19 confirmation report came after his death.
+,198,3/31/2020,49,F,Deceased,Indore,Indore,Madhya Pradesh,MP,Diagnosed after demise on 29/03/20
+,199,4/1/2020,75,M,Deceased,Mumbai,Mumbai,Maharashtra,MH,Died on 31st. Travel/Contact history still being checked
+,200,4/1/2020,65,M,Deceased,Indore,Indore,Madhya Pradesh,MP,Patient ID unknown
+,201,4/1/2020,57,M,Deceased#,Golabari,Howrah,West Bengal,WB,Patient ID unknown
+,202,4/1/2020,57,M,Deceased#,Belghoria,North 24 Parganas,West Bengal,WB,No known travel history. Diabetic with Kidney problems admitted to a private hospital on March 23rd
+,203,4/1/2020,25,M,Deceased,Gorakhpur,Basti,Uttar Pradesh,UP,Suffering from Kidney and Liver problems. Case registered as part of Basti district
+,204,4/1/2020,,,Recovered,,,Karnataka,KA,KA-P11
+,205,4/1/2020,,,Recovered,,S.P.S. Nellore,Andhra Pradesh,AP,
+,206,3/31/2020,,,Recovered,,,West Bengal,WB,
+,207,3/31/2020,,,Recovered,,,West Bengal,WB,
+,208,3/31/2020,,,Recovered,,,West Bengal,WB,
+,209,4/1/2020,,,Recovered,,Gurugram,Haryana,HR,Discharge: 1st Apr
+,210,4/1/2020,,,Recovered,,Gurugram,Haryana,HR,Discharge: 1st Apr
+,211,4/1/2020,,,Recovered,,Gurugram,Haryana,HR,Discharge: 1st Apr
+,212,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,6 discharges as of 30 Mar
+,213,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,6 discharges as of 30 Mar
+,214,3/30/2020,,,Recovered,,Gurugram,Haryana,HR,6 discharges as of 30 Mar
+,215,3/31/2020,,,Recovered,,Panipat,Haryana,HR,Patient ID unknown
+,216,3/31/2020,,,Recovered,,Panipat,Haryana,HR,Patient ID unknown
+,217,3/31/2020,,,Recovered,,Faridabad,Haryana,HR,Patient ID unknown
+,218,3/31/2020,,,Recovered,,Palwal,Haryana,HR,Patient ID unknown
+,219,4/1/2020,57,M,Recovered,,Thiruvananthapuram,Kerala,KL,P87
+,220,4/1/2020,,,Recovered,,Kozhikode,Kerala,KL,P379
+,221,4/1/2020,,,Recovered,,,Jammu and Kashmir,JK,Patient ID unknown
+,222,4/1/2020,51,M,Deceased,Mumbai,Mumbai,Maharashtra,MH,No history of foreign travel
+,223,4/1/2020,72,M,Deceased,Meerut,Meerut,Uttar Pradesh,UP,visited his in-laws in Meerut from Amravati on March 19 and had taken part in a wedding ceremony the next day
+,224,4/1/2020,,,Recovered,Bhubaneswar,Khordha,Odisha,OR,2nd Odisha case
+,225,4/1/2020,56,M,Deceased,Dharavi,Mumbai,Maharashtra,MH,"No travel history. Died at Sion hospital. Symptoms like fever, cough, respiratory issues and also had renal failure"
+,226,4/2/2020,,,Recovered,,,Gujarat,GJ,As per Govt of Guj Circular 1/4/20
+,227,4/2/2020,,,Recovered,,,Gujarat,GJ,As per Govt of Guj Circular 1/4/20
+,228,4/2/2020,52,M,Deceased,Vadodara,Vadodara,Gujarat,GJ,Member of a group that toured Sri Lanka in March. Admitted to SSG hospital on March 19th.
+,229,4/1/2020,49,M,Deceased,,Hyderabad,Telangana,TG,Died at Gandhi hospital. The deceased was admitted five days ago. His brother is also being treated at the same hospital and he attacked the doctors on hearing the news of death.
+,230,4/1/2020,,,Deceased,,Hyderabad,Telangana,TG,"01.04. 2020 - Dealths :3 (2 in Gandhi, 1 in yashoda) Toatal deaths till now :9"
+,231,4/1/2020,,,Deceased,,Hyderabad,Telangana,TG,"01.04. 2020 - Dealths :3 (2 in Gandhi, 1 in yashoda) Toatal deaths till now :9"
+,232,4/2/2020,,,Recovered,,Raipur,Chhattisgarh,CT,
+,233,4/5/2020,24,F,Recovered,,Raipur,Chhattisgarh,CT,Discharge date is most likely 3rd Apr
+,234,4/1/2020,50,M,Deceased,Girgaon,Mumbai,Maharashtra,MH,"Persistent cough for 3 days, rushed to JJ Hospital on tuesday after suffering breathlessness. Was referred to HN Reliance and then to Kasturba hospital, died a few hours after admission."
+,235,4/5/2020,,,Recovered,,Raipur,Chhattisgarh,CT,Details awaited
+,236,4/1/2020,73,F,Deceased,Mumbai,Mumbai,Maharashtra,MH,Died at Wockhardt hospital
+,237,4/2/2020,,,Deceased,,,Delhi,DL,Details awaited. Markaz related
+,238,4/2/2020,,,Deceased,,,Delhi,DL,Details awaited. Markaz related
+,239,4/2/2020,,,Recovered,,,Jammu and Kashmir,JK,Details awaited.
+,240,4/2/2020,65,F,Deceased,,Indore,Madhya Pradesh,MP,Succumbed to coronavirus at the Government Manorama Raje TB Hospital. She was already suffering from diabetes and thyroid.
+,241,4/2/2020,54,M,Deceased,,Indore,Madhya Pradesh,MP,"No travel history. Resident of Moti Tabela area, was admitted to the Maharaja Yeshwantrao Hospital on March 29. The patient was having breathing problems since the last two days. He was suffering from fever for last 15 days. He did not have cold-cough problem."
+,242,4/2/2020,,,Recovered,,Patna,Bihar,BR,Nalanda medical college hospital discharged the second corona patient last night.3 of 24 patients have been cured and sent home
+,243,4/2/2020,,,Recovered,,Patna,Bihar,BR,Nalanda medical college hospital discharged the second corona patient last night.3 of 24 patients have been cured and sent home
+,244,4/2/2020,,,Recovered,,Patna,Bihar,BR,Nalanda medical college hospital discharged the second corona patient last night.3 of 24 patients have been cured and sent home
+,245,4/2/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,246,4/2/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,247,4/2/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,248,4/2/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,249,4/2/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,250,4/2/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,251,4/2/2020,,,Recovered,,Thiruvananthapuram,Kerala,KL,P109
+,252,4/2/2020,,,Recovered,,Malappuram,Kerala,KL,P118
+,253,4/2/2020,,,Deceased,,,Punjab,PB,Details awaited
+,254,4/2/2020,,,Recovered,,,Telangana,TG,Details awaited
+,255,4/2/2020,,,Recovered,,,Telangana,TG,Details awaited
+,256,4/2/2020,,,Recovered,,,Telangana,TG,Details awaited
+,257,4/2/2020,,,Recovered,,,Karnataka,KA,KA-P9
+,258,4/2/2020,,,Recovered,,,Karnataka,KA,KA-P10
+,259,4/2/2020,45,M,Recovered,,,Gujarat,GJ,
+,260,4/2/2020,32,M,Recovered,,,Gujarat,GJ,
+,261,4/2/2020,23,M,Recovered,,,Gujarat,GJ,
+,262,4/2/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,263,4/2/2020,67,M,Deceased,Palghar,Palghar,Maharashtra,MH,Suffering from TB
+,264,4/2/2020,,,Recovered,,,Delhi,DL,Details awaited
+,265,4/2/2020,,,Recovered,,,Delhi,DL,Details awaited
+,266,4/3/2020,,,Recovered,Bhubaneswar,Khordha,Odisha,OR,1st case; Bhubaneswar; Capital Hospital
+,267,4/3/2020,78,M,Deceased,Godhra,Panch Mahals,Gujarat,GJ,"One 78-year-old person from Godhra who tested positive for #COVID19 and who was under treatment at a hospital in Vadodara, passed away last night: Uday Tilwat, District Chief Medical Officer, Vadodara. #Gujarat"
+,268,4/3/2020,55,M,Deceased,Vijayawada,Krishna,Andhra Pradesh,AP,No travel history. Son travelled to Delhi Nizammuddin. Reached GGH Vijayawada on March 30th and died an hour later. His and his son's samples were collected before death and they were confirmed later. The deceased patient had several comorbidities - Hypertension and cardiac issues.
+,269,4/3/2020,63,F,Deceased,Baddi,Solan,Himachal Pradesh,HP,Died at PGIMER in Chandigarh. She had returned from Dubai and concealed her information.
+,270,4/3/2020,,,Deceased,,,Delhi,DL,Markaz attendee. Details awaited
+,271,4/3/2020,,,Recovered,,Kannur,Kerala,KL,P463
+,272,4/3/2020,,,Recovered,,Kannur,Kerala,KL,P462
+,273,4/3/2020,,,Recovered,,Kannur,Kerala,KL,P698
+,274,4/3/2020,,,Recovered,,Kannur,Kerala,KL,P699
+,275,4/3/2020,,,Recovered,,Kannur,Kerala,KL,P6700
+,276,4/3/2020,,,Recovered,,Kasaragod,Kerala,KL,P320
+,277,4/3/2020,,,Recovered,,Kasaragod,Kerala,KL,P452
+,278,4/3/2020,,,Recovered,,Kasaragod,Kerala,KL,P709
+,279,4/3/2020,,,Recovered,,Idukki,Kerala,KL,P620
+,280,4/3/2020,,,Recovered,,Idukki,Kerala,KL,P713
+,281,4/3/2020,,,Recovered,,Kozhikode,Kerala,KL,P808
+,282,4/3/2020,,,Recovered,,Kasaragod,Kerala,KL,P810
+,283,4/3/2020,,,Recovered,,Pathanamthitta,Kerala,KL,P49
+,284,4/3/2020,,,Recovered,,Kottayam,Kerala,KL,P555
+,285,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,286,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,287,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,288,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,289,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,290,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,291,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,292,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,293,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,294,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,295,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,296,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,297,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,298,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,299,4/3/2020,,,Recovered,,,Telangana,TG,Details awaited
+,300,4/3/2020,,,Deceased,,,Telangana,TG,Details awaited
+,301,4/3/2020,,,Deceased,,,Telangana,TG,Details awaited
+,302,4/3/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,303,4/3/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,304,4/3/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,305,4/3/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,306,4/3/2020,,,Deceased,,,Maharashtra,MH,Details awaited
+,307,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,308,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,309,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,310,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,311,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,312,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,313,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,314,4/3/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,315,4/3/2020,67,M,Deceased,Ahmadabad,Ahmadabad,Gujarat,GJ,Had comorbities - HTN and DM. Died at Sola civil hospital on 3rd April evening.
+,316,4/3/2020,,,Deceased,,,Delhi,DL,Details awaited
+,317,4/3/2020,75,M,Deceased,Bagalkote,Bagalkote,Karnataka,KA,"KA-P125; No travel history. Had comorbities including a stent. Admitted to Hospital on March 31st, test confirmation came on 2nd April and passed away on 3rd. Children are software engineers from Bangalore who are with him since lockdown."
+,318,4/4/2020,51,M,Deceased,Viluppuram,Viluppuram,Tamil Nadu,TN,Visited Delhi Markaz in March. Developed breathlessness on 03rd April and passed away on 4th April
+,319,4/4/2020,36,M,Deceased,Chhindwara,Chhindwara,Madhya Pradesh,MP,Govt. official who was posted at Indore. His father has also tested positive.
+,320,4/4/2020,42,M,Deceased,Indore,Indore,Madhya Pradesh,MP,"Was obese, had breathing problems, high BP and fever. Admitted at MRTB hospital, passed away on 4th April."
+,321,4/3/2020,,,Recovered,,,Haryana,HR,
+,322,4/4/2020,80,F,Deceased,Indore,Indore,Madhya Pradesh,MP,Passed away on 2nd April. Covid19 fatality confirmed on 3rd April late night. She gave her sample on March 30th and left the hospital.
+,323,4/4/2020,67,F,Deceased,Ahmadabad,Ahmadabad,Gujarat,GJ,Died at SVP Hospital on 4th April. Was admitted on 28th March and was on a ventilator. Her husband is covid19 positive with travel history to Indore.
+,324,4/4/2020,24,M,Recovered,,,Gujarat,GJ,Details awaited
+,325,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1056
+,326,4/4/2020,46,M,Recovered,,,Gujarat,GJ,Details awaited
+,327,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1057
+,328,4/4/2020,61,F,Recovered,,,Gujarat,GJ,Details awaited
+,329,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1060
+,330,4/5/2020,61,F,Deceased,Surat,Surat,Gujarat,GJ,Details awaited
+,331,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1062
+,332,4/5/2020,75,F,Recovered,,,Gujarat,GJ,Details awaited
+,333,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1063
+,334,4/5/2020,42,M,Recovered,,,Gujarat,GJ,Details awaited
+,335,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P1249
+,336,4/5/2020,29,F,Recovered,,,Gujarat,GJ,Details awaited
+,337,4/4/2020,,,Recovered,,Kannur,Kerala,KL,P314
+,338,4/5/2020,46,F,Recovered,,,Gujarat,GJ,Details awaited
+,339,4/4/2020,,,Recovered,,Thiruvananthapuram,Kerala,KL,
+,340,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,341,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,342,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,343,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,344,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,345,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,346,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,347,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,348,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,349,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,350,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,351,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,352,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,353,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,354,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,355,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,356,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,357,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,358,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,359,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,360,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,361,4/4/2020,,,Recovered,,,Rajasthan,RJ,As per http://www.rajswasthya.nic.in/
+,362,4/4/2020,,,Recovered,,,Punjab,PB,State Bulletin
+,363,4/4/2020,,,Recovered,,,Punjab,PB,State Bulletin
+,364,4/4/2020,,,Recovered,,Ghaziabad,Uttar Pradesh,UP,State Bulletin
+,365,4/4/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,State Bulletin
+,366,4/4/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,State Bulletin
+,367,4/4/2020,,,Recovered,,Gautam Buddha Nagar,Uttar Pradesh,UP,State Bulletin
+,368,4/4/2020,53,F,Deceased,Theni,Theni,Tamil Nadu,TN,Passed away at Theni Medical college on 4th April after developing respiratory complications. She is the wife of a Delhi Markaz attendee.
+,369,4/4/2020,,,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,370,4/4/2020,,,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,371,4/4/2020,,,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,372,4/4/2020,,,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,373,4/4/2020,,,Deceased,,Thane,Maharashtra,MH,Details awaited
+,374,4/4/2020,,,Deceased,,Amravati,Maharashtra,MH,Details awaited
+,375,4/4/2020,60,F,Deceased,Bikaner,Bikaner,Rajasthan,RJ,No travel history. Was admitted at Govt. Hospital Bikaner four days ago. The handicapped woman was on a ventilator and passed away on 4th April 6am.
+,376,4/4/2020,,,Recovered,,,Telangana,TG,Details awaited
+,377,4/4/2020,,,Recovered,,,Tamil Nadu,TN,Details awaited
+,378,4/4/2020,,,Recovered,,,Tamil Nadu,TN,Details awaited
+,379,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,380,4/5/2020,71,M,Deceased,Chennai,Chennai,Tamil Nadu,TN,"Patient was from Ramanathapuram and was admitted Stanley medical college hospital on Apr 2nd, 9.45am. He died on the same day at 11.45 am. His test confirmation came on 5th April"
+,381,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,382,4/5/2020,60,M,Deceased,Chennai,Chennai,Tamil Nadu,TN,Was admitted to Stanley medical college hospital on April 1st and he passed away on 5th April.
+,383,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,384,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,385,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,386,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,387,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,388,4/4/2020,,,Recovered,,,Delhi,DL,Details awaited
+,389,4/4/2020,,,Recovered,,,Haryana,HR,Details awaited
+,390,4/4/2020,,,Recovered,,,Chandigarh,CH,
+,391,4/4/2020,,,Recovered,,,Chandigarh,CH,
+,392,4/4/2020,,,Recovered,,,Chandigarh,CH,
+,393,4/4/2020,,,Recovered,,,Maharashtra,MH,
+,394,4/4/2020,,,Recovered,,,Maharashtra,MH,
+,395,4/5/2020,,,Recovered,,Raipur,Chhattisgarh,CT,Details awaited
+,396,4/5/2020,,,Recovered,,Raipur,Chhattisgarh,CT,Details awaited
+,397,4/5/2020,60,F,Deceased,Pune,Pune,Maharashtra,MH,Was brought dead to Sassoon hospital. She was admitted last week to Naidu hospital on suspicion of Covid-19 and discharged after testing negative. Her test samples at the time of death was positive.
+,398,4/5/2020,52,M,Deceased,Pune,Pune,Maharashtra,MH,Passed away at Sassoon hospital on 5th Apr. Had diabetes.
+,399,4/5/2020,69,F,Deceased,Pune,Pune,Maharashtra,MH,Co-morbidity: Acute Calculous Cholecystitis
+,400,4/5/2020,58,M,Deceased,Aurangabad,Aurangabad,Maharashtra,MH,"Admitted to Govt. Medical college and hospital on 3rd April, test confirmed on 5th April morning and he passed away in the afternoon. Suffering from HTN, DM, he died of acute respiratory distress syndrome due to covid-19"
+,401,4/5/2020,,,Recovered,,,Punjab,PB,Details awaited
+,402,4/5/2020,69,F,Deceased,Ludhiana,Ludhiana,Punjab,PB,"Was COVID-19 positive and was admitted to hospital on 31st March with fever, cough and diarrhoea, died on 5th April after she suffered a cardiac arrest."
+,403,4/5/2020,,,Recovered,,,Jammu and Kashmir,JK,
+,404,4/5/2020,,,Recovered,,,Uttarakhand,UT,
+,405,4/5/2020,,,Recovered,,,Uttarakhand,UT,
+,406,4/5/2020,,,Recovered,,Kannur,Kerala,KL,
+,407,4/5/2020,,,Recovered,,Kannur,Kerala,KL,
+,408,4/5/2020,,,Recovered,,Kannur,Kerala,KL,
+,409,4/5/2020,,,Recovered,,Kannur,Kerala,KL,
+,410,4/5/2020,,,Recovered,,Thiruvananthapuram,Kerala,KL,native of malappuram
+,411,4/5/2020,,,Recovered,,Kozhikode,Kerala,KL,
+,412,4/5/2020,,,Recovered,,,Andhra Pradesh,AP,Details awaited
+,413,4/5/2020,,,Recovered,,,Andhra Pradesh,AP,Details awaited
+,414,4/5/2020,,,Recovered,,,Andhra Pradesh,AP,Details awaited
+,415,4/5/2020,53,F,Deceased,,Indore,Madhya Pradesh,MP,"Severely diabetic, on Insulin"
+,416,4/5/2020,,M,Recovered,,Jabalpur,Madhya Pradesh,MP,Details awaited
+,417,4/5/2020,,M,Recovered,,Jabalpur,Madhya Pradesh,MP,Details awaited
+,418,4/5/2020,,F,Recovered,,Jabalpur,Madhya Pradesh,MP,Details awaited
+,419,4/5/2020,70,F,Deceased,,Mumbai,Maharashtra,MH,Was admitted to KEM Hospital on 4th April with complaints of chest pain and breathlessness and succumbed to respiratory failure.
+,420,4/5/2020,77,M,Deceased,,Mumbai,Maharashtra,MH,"Was admitted to the Kasturba Hospital here on March 29 for fever, cough and breathlessness, died on 4th April due to respiratory failure"
+,421,4/5/2020,52,M,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,422,4/5/2020,80,M,Deceased,,Mumbai,Maharashtra,MH,Was admitted to a private hospital with complaints of weakness and epilepsy who died due to respiratory failure.
+,423,4/5/2020,64,M,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,424,4/5/2020,,M,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,425,4/5/2020,,M,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,426,4/5/2020,,M,Deceased,,Mumbai,Maharashtra,MH,Details awaited
+,427,4/5/2020,67,F,Deceased,Kalyan-Dombivli,Thane,Maharashtra,MH,Had HTN and DM
+,428,4/5/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,429,4/5/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,430,4/5/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,431,4/5/2020,,,Recovered,,,Maharashtra,MH,Details awaited
+,432,4/5/2020,,,Recovered,,Bilaspur,Chhattisgarh,CT,Details awaited
+,433,4/5/2020,52,M,Deceased,,,Delhi,DL,"From Haryana’s Sonepat is the seventh person in Delhi to die from COVID-19. He had been admitted to Maharaja Agrasen Hospital in Punjabi Bagh and died on April 4. The patient was admitted to the ICU on March 13 with several critical illnesses; he did not show any symptoms of COVID-19. His samples were sent for testing after another patient admitted in the ICU ward, who had left the hospital, tested positive."
+,434,4/5/2020,,,Recovered,,,Chandigarh,CH,Details awaited
+,435,4/5/2020,,,Recovered,,,Chandigarh,CH,Details awaited
+,436,4/5/2020,55,M,Deceased,Varanasi,Varanasi,Uttar Pradesh,UP,"Died in Varanasi on 4th April, tested positive for coronavirus on 5th April. The man was undergoing treatment at Sir Sunderlal Hospital on Benaras Hindu University campus. He was diabetic and used to take medicines for blood pressure. Few days ago, the man complained of cough and cold, following which he was admitted to two private hospitals before being taken to the BHU hospital on April 2."
+,437,4/5/2020,32,M,Recovered,,,Gujarat,GJ,
+,438,4/5/2020,66,M,Recovered,,,Gujarat,GJ,
+,439,4/5/2020,70,M,Recovered,,,Gujarat,GJ,
+,440,4/5/2020,32,M,Recovered,,,Gujarat,GJ,
+,441,4/5/2020,50,M,Deceased,Indore,Indore,Madhya Pradesh,MP,Died at MGMMCH hospital
+,442,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,443,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,444,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,445,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,446,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,447,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,448,4/5/2020,,,Recovered,,,West Bengal,WB,Details awaited
+,449,4/5/2020,75,F,Deceased,,Amritsar,Punjab,PB,"Resident of Sujjanpur, Pathankot. Referred to Amristar Hospital on 4th April and passed away on 5th April."
+,450,4/6/2020,52,M,Deceased,,Bhopal,Madhya Pradesh,MP,The man recently tested positive for coronavirus and died at a private hospital where he was undergoing treatment on 5th April night. He worked as a watchman at a wholesale vegetable market and was suffering from asthma since long
+,451,4/6/2020,60,M,Deceased,,Kota,Rajasthan,RJ,"Was found coronavirus positive and admitted to Kota's MBS hospital on 5th April, died around midnight. The deceased had no contact and travel history but some Tablighis were identified from the same area where he was living. He was admitted with complaint of pneumonia, fever and cough at MBS hospital."
+,452,4/6/2020,65,M,Deceased,,Anantapur,Andhra Pradesh,AP,Died on 4th Apr; Sample came positive hours after death. Chronic asthmatic and smoker. No foreign travel history.
+,453,4/5/2020,,,Recovered,,,Karnataka,KA,KA-P14
+,454,4/6/2020,55,M,Deceased,Machilipatnam,Krishna,Andhra Pradesh,AP,A case of local transmission as he returned by train from Odisha late last month and was admitted to the government hospital on April 2.
+,455,4/6/2020,,,Recovered,,,Karnataka,KA,KA-P21
+,456,4/6/2020,27,M,Recovered,,Bengaluru,Karnataka,KA,KA-P24
+,457,4/6/2020,22,M,Recovered,Bhatkal,Uttara Kannada,Karnataka,KA,KA-P26
+,458,4/6/2020,41,M,Recovered,,Bengaluru,Karnataka,KA,KA-P29
+,459,4/6/2020,24,M,Recovered,,Bengaluru,Karnataka,KA,KA-P31
+,460,4/6/2020,37,F,Recovered,,Chitradurga,Karnataka,KA,KA-P42
+,461,4/6/2020,20,M,Recovered,,Davanagere,Karnataka,KA,KA-P75
+,462,4/6/2020,56,F,Recovered,,Bengaluru,Karnataka,KA,KA-P13
+,463,4/6/2020,,,Recovered,,Kollam,Kerala,KL,
+,464,4/6/2020,,,Recovered,,Kannur,Kerala,KL,
+,465,4/6/2020,,,Recovered,,Thrissur,Kerala,KL,
+,466,4/6/2020,41,M,Deceased,,Mumbai,Maharashtra,MH,Died at Balasaheb Thackerey Hospital in Mumbai on 5th April. He didn’t have any international travel history. He had a liver disease due to excessive alcohol consumption and he was also a known case of epilepsy.
+,467,4/6/2020,62,M,Deceased,,Mumbai,Maharashtra,MH,Died at Balasaheb Thackerey Hospital Mumbai on 4th April. He had no international travel history. He was hypertensive and left side of his body had been paralyzed.
+,468,4/6/2020,80,M,Deceased,,Mumbai,Maharashtra,MH,Hypertensive man died at a private hospital in Mumbai yesterday.
+,469,4/6/2020,52,M,Deceased,,Mumbai,Maharashtra,MH,"Died at Saint George’s Hospital Mumbai on the evening of 4th April. He had visited Ajmer Sharif Dargah, Rajasthan in the second week of February. He was a diabetic since last two years."
+,470,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,471,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,472,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,473,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,474,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,475,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,476,4/6/2020,72,M,Deceased,Navi Mumbai,Thane,Maharashtra,MH,From Navi Mumbai died at a private hospital in Mumbai. He was diabetic and a heart patient.
+,477,4/6/2020,50,M,Deceased,Thane,Thane,Maharashtra,MH,"From Ambarnath died at Bhabha Hospital, Bandra on 6th April morning. He had traveled to Uttar Pradesh and he was diabetic."
+,478,4/6/2020,30,F,Deceased,Vasai,Palghar,Maharashtra,MH,"Pregnant woman from Mumbai's Nalasopara who tested positive for coronavirus, passed away on 6th April at Nair House, the Vasai-Virar City Municipal Corporation was quoted as saying by ANI"
+,479,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,480,4/6/2020,,,Recovered,,,Madhya Pradesh,MP,Details awaited; Date TBD
+,481,4/6/2020,,,Deceased,,,Haryana,HR,Details awaited; Date TBD
+,482,4/6/2020,24,F,Recovered,,Ahmadabad,Gujarat,GJ,
+,483,4/6/2020,62,F,Deceased,,Vadodara,Gujarat,GJ,
+,484,4/6/2020,58,M,Deceased,,Karnal,Haryana,HR,"No foreign travel history. From a village in Haryana's Karnal district died at PGIMER on 5th April. Suffering from Asthma and Diabetes, he tested positive on April 2nd."
+,485,4/6/2020,23,F,Recovered,,,Manipur,MN,First North East Patient
+,486,4/6/2020,,,Recovered,,Patna,Bihar,BR,Details awaited
+,487,4/6/2020,,,Recovered,,Munger,Bihar,BR,Details awaited
+,488,4/6/2020,,,Recovered,,Munger,Bihar,BR,Details awaited
+,489,4/6/2020,,,Recovered,,Patna,Bihar,BR,Details awaited
+,490,4/6/2020,,,Recovered,,Siwan,Bihar,BR,Details awaited
+,491,4/6/2020,,,Recovered,,Siwan,Bihar,BR,Details awaited
+,492,4/6/2020,1,M,Recovered,,Coimbatore,Tamil Nadu,TN,
+,493,4/6/2020,29,F,Recovered,,Coimbatore,Tamil Nadu,TN,Mother of P1078
+,494,4/6/2020,58,F,Recovered,,Coimbatore,Tamil Nadu,TN,Grandmother of P1078
+,495,4/6/2020,51,F,Recovered,,Coimbatore,Tamil Nadu,TN,Domestic help of P1076
+,496,4/6/2020,25,,Recovered,,Coimbatore,Tamil Nadu,TN,"Student, ID Unknown"
+,497,4/6/2020,54,M,Deceased,Indore,Indore,Madhya Pradesh,MP,"Succumbed on 3rd April at a private hospital in Indore, tested positive for the infection on 6th April"
+,498,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,499,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,500,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,501,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,502,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,503,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,504,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,505,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,506,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,507,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,508,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,509,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,510,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,511,4/6/2020,,,Recovered,,,Maharashtra,MH,
+,512,4/6/2020,,,Recovered,,,Ladakh,LA,
+,513,4/6/2020,,,Recovered,,,Ladakh,LA,
+,514,4/6/2020,,,Recovered,,,Ladakh,LA,
+,515,4/6/2020,,,Recovered,,,Ladakh,LA,
+,516,4/6/2020,,,Recovered,,,Ladakh,LA,
+,517,4/6/2020,,,Recovered,,,Ladakh,LA,
+,518,4/6/2020,,,Recovered,,,Ladakh,LA,
+,519,4/7/2020,37,M,Recovered,,,Gujarat,GJ,
+,520,4/7/2020,,,Deceased,Indore,Indore,Madhya Pradesh,MP,
+,521,4/7/2020,,,Deceased,Indore,Indore,Madhya Pradesh,MP,
+,522,4/7/2020,,,Deceased,Indore,Indore,Madhya Pradesh,MP,
+,523,4/7/2020,,,Recovered,,,West Bengal,WB,
+,524,4/7/2020,,,Recovered,,,West Bengal,WB,
+,525,4/7/2020,,,Recovered,,,West Bengal,WB,
+,526,4/7/2020,72,M,Deceased,Jharpada,Khordha,Odisha,OR,P4906
+,527,4/7/2020,,,Deceased,,Pune,Maharashtra,MH,Details awaited
+,528,4/7/2020,,,Deceased,,Pune,Maharashtra,MH,Details awaited
+,529,4/7/2020,,,Deceased,,Pune,Maharashtra,MH,Details awaited
+,530,4/7/2020,,,Recovered,,Mahe,Puducherry,PY,
+,531,4/6/2020,57,F,Deceased,Chennai,Chennai,Tamil Nadu,TN,Was admitted to the Rajiv Gandhi Government General Hospital on 5th April night in Chennai due to Severe Acute Respiratory Infection died on 6th April morning and she tested positive for Covid-19. She had diabetes and hypertension and a travel history by train to Tiruchirappalli.
+,532,4/7/2020,64,F,Deceased,Chennai,Chennai,Tamil Nadu,TN,"The woman, who died at the Rajiv Gandhi Government General Hospital here, had co-morbid conditions like hypertension and diabetes."
+,533,4/7/2020,,,Recovered,,Kannur,Kerala,KL,
+,534,4/7/2020,,,Recovered,,Kannur,Kerala,KL,
+,535,4/7/2020,,,Recovered,,Kannur,Kerala,KL,
+,536,4/7/2020,,,Recovered,,Kannur,Kerala,KL,
+,537,4/7/2020,,,Recovered,,Kannur,Kerala,KL,
+,538,4/7/2020,,,Recovered,,Ernakulam,Kerala,KL,British citizen
+,539,4/7/2020,,,Recovered,,Ernakulam,Kerala,KL,
+,540,4/7/2020,,,Recovered,,Ernakulam,Kerala,KL,
+,541,4/7/2020,,,Recovered,,Ernakulam,Kerala,KL,
+,542,4/7/2020,,,Recovered,,Thiruvananthapuram,Kerala,KL,
+,543,4/7/2020,,,Recovered,,Alappuzha,Kerala,KL,
+,544,4/7/2020,,,Recovered,,Kasaragod,Kerala,KL,
+,545,4/7/2020,,,Recovered,,,Karnataka,KA,KA-P20
+,546,4/7/2020,,,Recovered,,,Karnataka,KA,KA-P28
+,547,4/7/2020,,,Recovered,,,Karnataka,KA,KA-P34
+,548,4/7/2020,,,Recovered,,,Karnataka,KA,KA-P39
+,549,4/7/2020,,,Recovered,,,Karnataka,KA,KA-P41
+,550,4/7/2020,54,M,Deceased,,Bandipore,Jammu and Kashmir,JK,Admitted with the serious acute respiratory syndrome (SARS) at SMHS hospital in Srinagar died on 7th April and doctors said he had tested positive for COVID-19.
+,551,4/7/2020,,,Recovered,,Siwan,Bihar,BR,
+,552,4/7/2020,,,Recovered,,Siwan,Bihar,BR,
+,553,4/7/2020,,,Recovered,,Munger,Bihar,BR,
+,554,4/7/2020,,,Recovered,,Munger,Bihar,BR,
+,555,4/7/2020,,,Recovered,,Munger,Bihar,BR,
+,556,4/7/2020,,,Recovered,,Munger,Bihar,BR,
+,557,4/7/2020,66,M,Deceased,,Mumbai,Maharashtra,MH,The patient was from Borivali died last evening at a private hospital in Mumbai
+,558,4/7/2020,67,M,Deceased,,Mumbai,Maharashtra,MH,The patient was diabetic and hypertensive. Died at Mumbai Port Hospital last night. He had also undergone bypass surgery in the past
+,559,4/7/2020,55,,Deceased,,Mumbai,Maharashtra,MH,Diamond company worker passed away at a private hospital
+,560,4/7/2020,48,F,Deceased,,Mumbai,Maharashtra,MH,The patient had pulmonary TB and died on 4th April at Balasaheb Thackerey Hospital in Mumbai
+,561,4/7/2020,72,F,Deceased,,Pune,Maharashtra,MH,She was hypertensive and had hypothyroidism. She died at KEM hospital.
+,562,4/7/2020,,,Recovered,,Korba,Chhattisgarh,CT,
+,563,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,564,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,565,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,566,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,567,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,568,4/7/2020,,,Recovered,,,Tamil Nadu,TN,
+,569,4/6/2020,,,Recovered,,,Telangana,TG,
+,570,4/6/2020,,,Recovered,,,Telangana,TG,
+,571,4/6/2020,,,Recovered,,,Telangana,TG,
+,572,4/6/2020,,,Recovered,,,Telangana,TG,
+,573,4/6/2020,,,Recovered,,,Telangana,TG,
+,574,4/6/2020,,,Recovered,,,Telangana,TG,
+,575,4/6/2020,,,Recovered,,,Telangana,TG,
+,576,4/6/2020,,,Recovered,,,Telangana,TG,
+,577,4/6/2020,,,Recovered,,,Telangana,TG,
+,578,4/6/2020,,,Recovered,,,Telangana,TG,
+,579,4/6/2020,,,Recovered,,,Telangana,TG,
+,580,4/6/2020,,,Recovered,,,Telangana,TG,
+,581,4/7/2020,55,M,Recovered,,Vadodara,Gujarat,GJ,
+,582,4/7/2020,55,M,Recovered,,Bhavnagar,Gujarat,GJ,
+,583,4/7/2020,47,M,Deceased,,Patan,Gujarat,GJ,Diabetes
+,584,4/7/2020,52,M,Deceased,,Surat,Gujarat,GJ,Diabetes and hypertension
+,585,4/7/2020,,,Recovered,,,Haryana,HR,
+,586,4/7/2020,,,Recovered,,,Haryana,HR,
+,587,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,588,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,589,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,590,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,591,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,592,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,593,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,594,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,595,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,596,4/7/2020,,,Recovered,,,Madhya Pradesh,MP,
+,597,4/7/2020,,,Deceased,,,Madhya Pradesh,MP,
+,598,4/7/2020,,,Deceased,,,Madhya Pradesh,MP,
+,599,4/7/2020,,,Deceased,,,Madhya Pradesh,MP,
+,600,4/7/2020,,,Recovered,,,Chandigarh,CH,
+,601,4/7/2020,,,Recovered,,,Chandigarh,CH,
+,602,4/7/2020,,,Deceased,,,Punjab,PB,Details awaited
+,603,4/7/2020,,,Deceased,,,Delhi,DL,Details awaited
+,604,4/7/2020,,,Deceased,,,Delhi,DL,Details awaited
+,605,4/7/2020,,,Recovered,,,Punjab,PB,
+,606,4/7/2020,,,Recovered,,,Punjab,PB,
+,607,4/7/2020,,,Recovered,,,Punjab,PB,
+,608,4/7/2020,,,Recovered,,,Punjab,PB,
+,609,4/7/2020,,,Recovered,,,Punjab,PB,
+,610,4/7/2020,,,Recovered,,,Punjab,PB,
+,611,4/7/2020,,,Recovered,,,Punjab,PB,
+,612,4/7/2020,,,Recovered,,,Punjab,PB,
+,613,4/7/2020,,,Recovered,,,Punjab,PB,
+,614,4/7/2020,,,Recovered,,,Punjab,PB,
+,615,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,616,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,617,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,618,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,619,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,620,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,621,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,622,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,623,4/7/2020,,,Recovered,,,Maharashtra,MH,
+,624,4/7/2020,68,M,Deceased,,Nagpur,Maharashtra,MH,The patient was diabetic. He died at at Indira Gandhi Medical College Nagpur
+,625,4/7/2020,67,M,Deceased,,Pune,Maharashtra,MH,Diabetic and hypertensive. The person expired at Sassoon Hospital. He had kidney disease and was on dialysis. He had no international travel history.
+,626,4/7/2020,65,M,Deceased,,Pune,Maharashtra,MH,Diabetic and hypertensive. The person expired at Sassoon Hospital. He had no international travel history.
+,627,4/7/2020,67,M,Deceased,,Pune,Maharashtra,MH,Diabetic and hypertensive. The person expired at Sassoon Hospital. He had no international travel history.
+,628,4/7/2020,,,Recovered,,,Delhi,DL,
+,629,4/7/2020,,,Recovered,,,Delhi,DL,
+,630,4/7/2020,,,Recovered,,,Delhi,DL,
+,631,4/7/2020,,,Recovered,,,Delhi,DL,
+,632,4/8/2020,65,,Deceased,,Surat,Gujarat,GJ,Hypertension
+,633,4/8/2020,1,,Deceased,,Jamnagar,Gujarat,GJ,14 Month Old Boy
+,634,4/8/2020,44,M,Deceased,,Pune,Maharashtra,MH,"Was on ventilator support and suffering from uncontrolled diabetes, died at the civic-run Naidu Hospital early morning 8th April. He was admitted to the hospital on April 4. On Tuesday night, he became breathless and was put on ventilator support.He died on Wednesday after renal failure."
+,635,4/8/2020,55,M,Deceased,,Pune,Maharashtra,MH,Succumbed to the viral disease at the state-run Sassoon Hospital
+,636,4/8/2020,65,M,Deceased,,Kalaburagi,Karnataka,KA,
+,637,4/8/2020,,,Recovered,,,Andhra Pradesh,AP,
+,638,4/8/2020,,,Deceased,,,West Bengal,WB,As per MoHFW
+,639,4/8/2020,,,Deceased,,,West Bengal,WB,As per MoHFW
+,640,4/8/2020,,,Recovered,,,Karnataka,KA,
+,641,4/8/2020,,,Recovered,,,Karnataka,KA,
+,642,4/8/2020,,,Recovered,,,Karnataka,KA,
+,643,4/8/2020,64,M,Deceased,Mumbai,Mumbai,Maharashtra,MH,from Dharavi died at KEM hospital on 7th April morning.
+,644,4/8/2020,46,F,Deceased,Mumbai,Mumbai,Maharashtra,MH,died 7th April evening at Mumbai’s KEM hospital. She was diabetic.
+,645,4/8/2020,54,F,Deceased,Mumbai,Mumbai,Maharashtra,MH,died at KEM Hospital in the afternoon on 7th April
+,646,4/8/2020,,,Recovered,,,Jammu and Kashmir,JK,Discharged from SKIMS
+,647,4/8/2020,,,Recovered,,,Jammu and Kashmir,JK,Discharged from SKIMS
+,648,4/8/2020,,,Recovered,,,Tamil Nadu,TN,
+,649,4/8/2020,72,,Recovered,,,Tamil Nadu,TN,
+,650,4/8/2020,,,Recovered,,Kannur,Kerala,KL,
+,651,4/8/2020,,,Recovered,,Wayanad,Kerala,KL,
+,652,4/8/2020,,,Recovered,,Wayanad,Kerala,KL,
+,653,4/8/2020,,,Recovered,,Idukki,Kerala,KL,
+,654,4/8/2020,,,Recovered,,Idukki,Kerala,KL,
+,655,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,656,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,657,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,658,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,659,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,660,4/8/2020,,,Recovered,,Thrissur,Kerala,KL,
+,661,4/8/2020,,,Recovered,,Kozhikode,Kerala,KL,
+,662,4/8/2020,,,Recovered,,Kozhikode,Kerala,KL,
+,663,4/7/2020,,,Recovered,,,Himachal Pradesh,HP,
+,664,4/8/2020,,,Recovered,,,Uttarakhand,UT,
+,665,4/8/2020,,,Recovered,,Panipat,Haryana,HR,
+,666,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,667,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,668,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,669,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,670,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,671,4/8/2020,,,Recovered,,,Uttar Pradesh,UP,
+,,,,,,,,,,,
